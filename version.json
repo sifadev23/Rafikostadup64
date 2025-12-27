@@ -1,21 +1,21 @@
 {
-  "latestVersion": "1.0.3",
-  "releaseDate": "2025-12-21",
-  "downloadUrl": "https://github.com/sifadev23/Rafikostadup64/releases/download/1.0.3/Rafikostad.x64.exe",
+  "latestVersion": "1.0.4",
+  "releaseDate": "2025-12-27",
+  "downloadUrl": "https://github.com/sifadev23/Rafikostadup64/releases/download/1.0.4/Rafikostad.x64.exe",
   "changelog": {
     "ar": [
-      "طباعة مخصصة بعدة خيارات",
-      "تحسينات في الأداء",
+      "اضافة اللغتين العربية و الانجليزية في طباعة دفتر التنقيط",
+      "استيراد النقاط من اكسل الرقمنة",
       "إصلاح أخطاء بسيطة"
     ],
     "en": [
       "Fixed report printing issue",
-      "Performance improvements",
+      "Add French and English",
       "Minor bug fixes"
     ]
   },
-  "isRequired": false,
-  "minimumVersion": "1.0.3",
+  "isRequired": true,
+  "minimumVersion": "1.0.4",
   "releaseNotes": "هذا إصدار تحديثي يحتوي على تحسينات وإصلاحات مهمة",
   "fileSize": "51.0 MB",
   "checksumMD5": "d41d8cd98f00b204e9800998ecf8427e"
